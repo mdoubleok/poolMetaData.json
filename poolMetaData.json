@@ -3,4 +3,5 @@
 "description": "Bringing blockchain knowledge and tools to the Inner City and underserved",
 "ticker": "bkwst",
 "homepage": ""
+"extended": "https://raw.githubusercontent.com/mdoubleok/poolMetaData.json/main/extended.json"
 }
