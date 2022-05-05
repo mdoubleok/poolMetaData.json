@@ -1,36 +1,36 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://github.com/fisch192/southtyrolpool.github.io/blob/main/iphone-40x40@2x.png?raw=true",
-        "url_png_logo": "https://github.com/fisch192/southtyrolpool.github.io/blob/main/design1.png?raw=true",
-        "location": "Bolzano | South Tyrol | Italy",
+        "url_png_icon_64x64": "",
+        "url_png_logo": "https://user-images.githubusercontent.com/4412492/166946753-f4e3d0ee-e60a-4376-bde2-6e910194ebd2.png",
+        "location": "Atlanta | Georgia | North America",
         "social": {
-            "twitter_handle": "southtyrolpool",
-            "telegram_handle": "southtyrolpool",
+            "twitter_handle": "realmdoubleok",
+            "telegram_handle": "mdoubleok",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
-            "discord_handle": "",
+            "discord_handle": "mdoubleok#0855",
             "github_handle": ""
         },
         "company": {
-            "name": "Southtyrolpool",
+            "name": "Black Wall Street",
             "addr": "",
-            "city": "Bolzano | South Tyrol | Italy",
-            "country": "IT",
+            "city": "Atlanta | Georgia | North America",
+            "country": "US",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
-            "me": "Single pool operater from Southtyrol, North of Italy. Trying to bring the cardano World to Southtyrol. I´m happy to be part of the Cardano network and to support the community",
-            "server": "Raspberry Pi 4 powered with green energy.Our equipment currently consists of 1 Block Producer and 2 Relay Nodes.We can guarantee an excellent internet connection. BARE METAL SERVERS ",
+            "me": "Single pool operater from Atlanta, Georgia. Trying to bring the cardano World to the city. I´m happy to be part of the Cardano network and to support the community",
+            "server": "Intek NUC powered with green energy.Our equipment currently consists of 1 Block Producer and 1 Relay Nodes.We can guarantee an excellent internet connection. BARE METAL SERVERS ",
             "company": ""
         },
     "my-pool-ids": {
-        "0": "2dabd15e4759334738940a65e06b6589f674a29347db0a36d75a5d36",
+        "0": "5462801d8bd4c445f1da7c06541152de6f839d2147c7218a0d3d890a",
         "1": ""
       },
          "telegram-admin-handle": {
-        "0": "southtyrolpool"
+        "0": "mdoubleok"
     }
     }
    
